@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <title>Java Webapp</title>
+</head>
+<body>
+    <header>
+        <h1 class="site-title">Boomerang Employee Home</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/employee.html">Request</a>
+                </li>
+                <li>
+                    <a href="/profile">My Profile</a>
+                </li>
+                <li>
+                    <a href="/logout"><button onclick="/logout">Logout</button></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Add new reimbursement request:</h2>
+            <form name="new-request" id="new-request" method="post" action="/api/new-request">
+                <label for="myEmail">Welcome:</label>
+                <input type="text" id="myEmail" name="myEmail" />
+
+                <label for="amount">Dollar Amount:</label>
+                <input type="text" id="amount" name="amount"/>
+
+                <label for="reason">Reason:</label>
+                <input type="text" id="reason" name="reason"/>
+
+                <label for="comments">Comments:</label>
+                <input type="text" id="comments" name="comments" />
+                <button type="submit">Submit New Request</button>
+            </form>
+        </section>
+        <section>
+            <h2 id="site-title">-All my requests-</h2>
+
+            <button id="refresh-requests" type="submit">Refresh Requests</button>
+
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Case Number</th>
+                        <th>Amount</th>
+                        <th>Reason</th>
+                        <th>Comments</th>
+                        <th>Approved By</th>
+                    </tr>
+                </thead>
+                <tbody id="e-request-table">
+
+                </tbody>
+            </table>
+        </section>
+
+    </main>
+    <footer>
+
+    </footer>
+    <script type="text/javascript" src="scripts/employee.js"></script>
+</body>
+</html>

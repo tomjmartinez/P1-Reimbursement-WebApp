@@ -1,0 +1,134 @@
+2021-05-17 08:47:59,071 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 08:48:43,729 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@manager.dev
+2021-05-17 08:49:05,198 INFO s.LoginService [qtp757004314-17] Successful Login for: tj@powerprogrammer.net
+2021-05-17 08:54:50,236 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 08:56:06,715 INFO s.LoginService [qtp780495524-20] Successful Login for: tj@manager.dev
+2021-05-17 09:06:43,750 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 09:27:34,129 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:12:15,409 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:12:43,214 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:12:43,369 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:12:43,369 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:12:50,949 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:12:50,953 INFO s.RequestsService [qtp757004314-19] reading all request in db
+2021-05-17 10:16:50,596 INFO s.RequestsService [qtp757004314-18] refreshing requests in db
+2021-05-17 10:16:50,604 INFO s.RequestsService [qtp757004314-18] reading all request in db
+2021-05-17 10:26:37,767 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:26:50,505 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:26:50,594 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:26:50,594 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:27:35,872 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:27:51,268 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:27:51,355 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:27:51,355 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:30:16,051 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:30:24,204 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:30:24,288 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:30:24,288 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:31:20,577 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:31:34,138 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:31:34,220 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:31:34,220 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:32:34,913 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:32:52,207 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:32:52,291 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:32:52,292 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:36:06,097 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:36:14,515 INFO s.EmployeeService [qtp757004314-19] refreshing employees db
+2021-05-17 10:36:14,600 INFO s.EmployeeService [qtp757004314-19] read new employee in db
+2021-05-17 10:36:14,601 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:36:18,104 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:36:18,134 INFO s.RequestsService [qtp757004314-19] reading all request in db
+2021-05-17 10:37:28,577 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:37:28,577 INFO s.RequestsService [qtp757004314-19] random num being generated
+2021-05-17 10:37:28,588 INFO s.RequestsService [qtp757004314-19] creating new request in dbtj@powerprogrammer.net288259
+2021-05-17 10:37:37,172 INFO s.RequestsService [qtp757004314-17] refreshing requests in db
+2021-05-17 10:37:37,174 INFO s.RequestsService [qtp757004314-17] reading all request in db
+2021-05-17 10:37:57,776 INFO s.ManagerService [qtp757004314-19] reading new manager in dbManager{email='tj@manager.dev', password='123456', firstname='TJ', lastname='Maverick', id=609d8cde42289d844c43ed92}
+2021-05-17 10:37:57,777 INFO s.LoginService [qtp757004314-19] Successful Login for: tj@manager.dev
+2021-05-17 10:38:01,511 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:38:01,512 INFO s.RequestsService [qtp757004314-19] reading all request in db
+2021-05-17 10:38:09,388 INFO s.RequestsService [qtp757004314-15] refreshing requests in db
+2021-05-17 10:38:09,433 INFO s.RequestsService [qtp757004314-15] refreshing requests in db
+2021-05-17 10:38:09,433 INFO s.RequestsService [qtp757004314-15] upadating requests in db288259
+2021-05-17 10:38:13,414 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:38:13,415 INFO s.RequestsService [qtp757004314-19] reading all request in db
+2021-05-17 10:38:24,467 INFO s.EmployeeService [qtp757004314-15] refreshing employees db
+2021-05-17 10:38:24,469 INFO s.EmployeeService [qtp757004314-15] read new employee in db
+2021-05-17 10:38:24,470 INFO s.LoginService [qtp757004314-15] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:38:28,242 INFO s.RequestsService [qtp757004314-15] refreshing requests in db
+2021-05-17 10:38:28,246 INFO s.RequestsService [qtp757004314-15] reading all request in db
+2021-05-17 10:57:03,438 INFO Main [main] initializing main app.  Inside main.
+2021-05-17 10:57:28,182 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 10:57:28,281 INFO s.EmployeeService [qtp757004314-17] read new employee in db
+2021-05-17 10:57:28,282 INFO s.LoginService [qtp757004314-17] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:57:39,437 INFO s.RequestsService [qtp757004314-17] refreshing requests in db
+2021-05-17 10:57:39,441 INFO s.RequestsService [qtp757004314-17] reading all request in db
+2021-05-17 10:58:12,591 INFO s.RequestsService [qtp757004314-15] refreshing requests in db
+2021-05-17 10:58:12,591 INFO s.RequestsService [qtp757004314-15] random num being generated
+2021-05-17 10:58:12,603 INFO s.RequestsService [qtp757004314-15] creating new request in dbtj@powerprogrammer.net781524
+2021-05-17 10:58:18,909 INFO s.RequestsService [qtp757004314-17] refreshing requests in db
+2021-05-17 10:58:18,913 INFO s.RequestsService [qtp757004314-17] reading all request in db
+2021-05-17 10:58:47,461 INFO s.ManagerService [qtp757004314-15] reading new manager in dbManager{email='tj@manager.dev', password='123456', firstname='TJ', lastname='Maverick', id=609d8cde42289d844c43ed92}
+2021-05-17 10:58:47,461 INFO s.LoginService [qtp757004314-15] Successful Login for: tj@manager.dev
+2021-05-17 10:58:52,603 INFO s.RequestsService [qtp757004314-17] refreshing requests in db
+2021-05-17 10:58:52,607 INFO s.RequestsService [qtp757004314-17] reading all request in db
+2021-05-17 10:59:03,031 INFO s.RequestsService [qtp757004314-12] refreshing requests in db
+2021-05-17 10:59:03,036 INFO s.RequestsService [qtp757004314-12] refreshing requests in db
+2021-05-17 10:59:03,037 INFO s.RequestsService [qtp757004314-12] upadating requests in db781524
+2021-05-17 10:59:04,504 INFO s.RequestsService [qtp757004314-17] refreshing requests in db
+2021-05-17 10:59:04,506 INFO s.RequestsService [qtp757004314-17] reading all request in db
+2021-05-17 10:59:13,577 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 10:59:13,579 INFO s.EmployeeService [qtp757004314-17] read new employee in db
+2021-05-17 10:59:13,579 INFO s.LoginService [qtp757004314-17] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:59:16,295 INFO s.RequestsService [qtp757004314-12] refreshing requests in db
+2021-05-17 10:59:16,300 INFO s.RequestsService [qtp757004314-12] reading all request in db
+2021-05-17 10:59:40,906 INFO s.ManagerService [qtp757004314-17] reading new manager in dbManager{email='tj@manager.dev', password='123456', firstname='TJ', lastname='Maverick', id=609d8cde42289d844c43ed92}
+2021-05-17 10:59:40,907 WARN s.LoginService [qtp757004314-17] Invalid Login for: tj@manager.dev
+2021-05-17 10:59:48,454 INFO s.EmployeeService [qtp757004314-12] refreshing employees db
+2021-05-17 10:59:48,458 INFO s.EmployeeService [qtp757004314-12] read new employee in db
+2021-05-17 10:59:48,458 INFO s.LoginService [qtp757004314-12] Successful Login for: tj@powerprogrammer.net
+2021-05-17 10:59:51,253 INFO s.EmployeeService [qtp757004314-12] refreshing employees db
+2021-05-17 10:59:51,255 INFO s.EmployeeService [qtp757004314-12] read new employee in db
+2021-05-17 10:59:51,362 INFO s.RequestsService [qtp757004314-19] refreshing requests in db
+2021-05-17 10:59:51,371 INFO s.RequestsService [qtp757004314-19] reading all request in db
+2021-05-17 11:00:25,044 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,045 INFO s.EmployeeService [qtp757004314-17] read new employee in db
+2021-05-17 11:00:25,046 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,053 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,053 INFO s.EmployeeService [qtp757004314-17] updated new employee in db
+2021-05-17 11:00:25,055 INFO c.Controller [qtp757004314-17] updated email for userEmployee{email='tj@powerprogrammer.net', password='123456', firstname='TJ', lastname='Martinez', requests=null, id=609d7d9342289d844c43ed90}
+2021-05-17 11:00:25,055 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,057 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,057 INFO s.EmployeeService [qtp757004314-17] updated new employee in db
+2021-05-17 11:00:25,057 INFO c.Controller [qtp757004314-17] trying to update password for userEmployee{email='tj@powerprogrammer.net', password='123456', firstname='TJ', lastname='Martinez', requests=null, id=609d7d9342289d844c43ed90}
+2021-05-17 11:00:25,057 INFO s.EmployeeService [qtp757004314-17] refreshing employees db
+2021-05-17 11:00:25,058 INFO s.EmployeeService [qtp757004314-17] read new employee in db
+2021-05-17 11:28:54,176 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,336 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,336 INFO s.EmployeeService [main] updated new employee in db
+2021-05-17 11:28:54,336 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,336 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,409 INFO s.EmployeeService [main] read new employee in db
+2021-05-17 11:28:54,414 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,436 INFO s.EmployeeService [main] created new employee in db
+2021-05-17 11:28:54,454 INFO s.EmployeeService [main] refreshing employees db
+2021-05-17 11:28:54,530 INFO s.EmployeeService [main] read new employee in db
+2021-05-17 11:28:54,562 INFO s.ManagerService [main] updating new manager in dbtj4
+2021-05-17 11:28:54,565 INFO s.ManagerService [main] reading new manager in dbManager{email='tj4', password='123456', firstname='for testing', lastname='nice test', id=60a220ab21e5460e184a617d}
+2021-05-17 11:28:54,593 INFO s.ManagerService [main] created new manager in db
+2021-05-17 11:28:54,667 INFO s.ManagerService [main] reading new manager in dbManager{email='tj4', password='123456', firstname='for testing', lastname='nice test', id=60a220ab21e5460e184a617d}
+2021-05-17 11:28:54,673 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,740 INFO s.RequestsService [main] reading all request in db
+2021-05-17 11:28:54,742 INFO s.RequestsService [main] random num being generated
+2021-05-17 11:28:54,745 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,774 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,774 INFO s.RequestsService [main] upadating requests in dbtj4
+2021-05-17 11:28:54,775 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,775 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,779 INFO s.RequestsService [main] reading request in dbtj4
+2021-05-17 11:28:54,781 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,801 INFO s.RequestsService [main] reading request in dbtj4
+2021-05-17 11:28:54,806 INFO s.RequestsService [main] refreshing requests in db
+2021-05-17 11:28:54,806 INFO s.RequestsService [main] random num being generated
+2021-05-17 11:28:54,815 INFO s.RequestsService [main] creating new request in dbtj4325976

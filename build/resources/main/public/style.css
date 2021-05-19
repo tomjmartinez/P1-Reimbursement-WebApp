@@ -1,0 +1,15 @@
+nav ul {
+    display: inline-block;
+}
+
+form input {
+    display: block;
+}
+
+h1 {
+    color: rgb(245, 62, 49);
+}
+
+table th{
+    border: 1.5px solid black;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Profile</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="/employee.html">Request</a>
+                </li>
+                <li>
+                    <a>My Profile</a>
+                </li>
+                <li>
+                    <a href="/logout"><button>Logout</button></a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+        <form method="post" action="/updateprofile">
+            <label for="email">New Email:</label>
+            <input name="email" id="email"/>
+
+            <label for="password">New Password:</label>
+            <input name="password" id="password"/>
+
+            <label for="firstname">New First Name:</label>
+            <input name="firstname" id="firstname"/>
+
+            <label for="lastname">New Last Name:</label>
+            <input name="lastname" id="lastname"/>
+            <div>
+            <button type="submit">Update</button>
+            </div>
+        </form>
+
+        <script src="scripts/profile.js"></script>
+    </main>
+</body>
+</html>
