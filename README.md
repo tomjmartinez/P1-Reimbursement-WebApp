@@ -13,7 +13,7 @@
 * [Contact](#contact)
 
 ## General info
-Employee reimbursement processing webapp
+Employee reimbursement processing webapp.  The main code can be found in the "/src" folder.
 
 
 ## Technologies
