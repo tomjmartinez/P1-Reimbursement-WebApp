@@ -32,4 +32,3 @@ _Development_
 ## Contacts/Collaborators
 Created by:
 Tomas "TJ" Martinez [@tomjmartinez](https://www.github.com/tomjmartinez)
-Kevin
